@@ -33,9 +33,11 @@ Estudiante de **4º año de Ingeniería del Software** apasionado por construir 
 
 ### Estadísticas de GitHub
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaluc2&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaluc2&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" alt="Top Languages" />
+  <a href="https://github.com/aaluc2">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaluc2&theme=radical&hide_border=true&background=1d1f21" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
