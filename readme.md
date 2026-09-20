@@ -1,10 +1,11 @@
-# ¡Hola, mundo! Soy Adam
+# ¡Hola! Soy Adam
 
 <img src="https://komarev.com/ghpvc/?username=aaluc2&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 
 Estudiante de **4º año de Ingeniería del Software** apasionado por construir soluciones web robustas, seguras y escalables. Me desenvuelvo sobre todo en el **Frontend** y en el **Backend**, y siempre busco integrar la **Inteligencia Artificial** en mis flujos de trabajo para optimizar procesos y potenciar la productividad.
 
 ---
+[![GitHub](https://img.shields.io/badge/GitHub-aaluc2-181717?style=flat&logo=github)](https://github.com/aaluc2)
 
 ### Stack Tecnológico
 
