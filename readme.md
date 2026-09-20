@@ -5,7 +5,7 @@
 Estudiante de **4º año de Ingeniería del Software** apasionado por construir soluciones web robustas, seguras y escalables. Me desenvuelvo sobre todo en el **Frontend** y en el **Backend**, y siempre busco integrar la **Inteligencia Artificial** en mis flujos de trabajo para optimizar procesos y potenciar la productividad.
 
 ---
-[![GitHub](https://img.shields.io/badge/GitHub-aaluc2-181717?style=flat&logo=github)](https://github.com/aaluc2)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=whoami+%3E+Adam;learning.systems()+%2B+learning.web();git+commit+-m+%22still+learning%22" alt="Typing SVG" />
 
 ### Stack Tecnológico
 
