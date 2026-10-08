@@ -1,4 +1,6 @@
-# ¡Hola! Soy Adam
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:8957e5&height=200&section=header&text=Hola,%20soy%20Adam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ingeniería%20del%20Software%20%7C%20Full-Stack%20%7C%20Ciberseguridad&descAlignY=58&descSize=16" width="100%" alt="Banner" />
 
 <img src="https://komarev.com/ghpvc/?username=aaluc2&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 
@@ -36,11 +38,6 @@ Estudiante de **4º año de Ingeniería del Software** apasionado por construir 
 ---
 
 ### Estadísticas de GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaluc2&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaluc2&layout=compact&hide_border=true&theme=default" />
-</div>
 
 <div align="center">
   <a href="https://github.com/aaluc2">
