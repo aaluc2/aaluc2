@@ -5,7 +5,10 @@
 Estudiante de **4º año de Ingeniería del Software** apasionado por construir soluciones web robustas, seguras y escalables. Me desenvuelvo sobre todo en el **Frontend** y en el **Backend**, y siempre busco integrar la **Inteligencia Artificial** en mis flujos de trabajo para optimizar procesos y potenciar la productividad.
 
 ---
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=whoami+%3E+Adam;learning.systems()+%2B+learning.web();git+commit+-m+%22still+learning%22" alt="Typing SVG" />
+</div>
+
 
 ### Stack Tecnológico
 
@@ -34,6 +37,10 @@ Estudiante de **4º año de Ingeniería del Software** apasionado por construir 
 
 ### Estadísticas de GitHub
 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaluc2&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaluc2&layout=compact&hide_border=true&theme=default" />
+</div>
 
 <div align="center">
   <a href="https://github.com/aaluc2">
