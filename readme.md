@@ -49,4 +49,11 @@ Estudiante de **4º año de Ingeniería del Software** apasionado por construir 
 
 ### Contacto
 
-- **Email:** : adamkassmi43@gmail.com
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-adamkassmi43@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamkassmi43@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aaluc2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaluc2)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:58a6ff,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
